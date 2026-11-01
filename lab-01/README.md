@@ -28,7 +28,6 @@ This project demonstrates the creation of a foundational web server using Node.j
 ---
 
 ## 4. Project Structure
-
 ```text
 Deepika-BDF/
 └── lab-01/
@@ -43,6 +42,7 @@ Deepika-BDF/
     ├── package-lock.json
     ├── README.md
     └── server.js
+```
 
 ##  5.API Endpoints
 Local Base URL: http://localhost:3000
