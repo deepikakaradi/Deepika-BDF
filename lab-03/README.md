@@ -342,7 +342,7 @@ Expected: **400 Bad Request**.
 
 ### 5. Price Filtering
 
-![Price Filtering](screenshots/price-filter.png)
+![Price Filtering](screenshots/price-fltering.png)
 
 ### 6. POST Validation Error
 
@@ -354,7 +354,7 @@ Expected: **400 Bad Request**.
 
 ### 8. PUT Update Request
 
-![PUT Update Request](screenshots/update.png)
+![PUT Update Request](screenshots/put-update.png)
 
 ### 9. DELETE Request
 
