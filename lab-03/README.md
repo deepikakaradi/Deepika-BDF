@@ -2,8 +2,8 @@
 
 ## Project Details
 
-- **Name:** Ganta Chaitanya Vardhan
-- **Registration Number:** 252U1R5047
+- **Name:** K. J. Deepika
+- **Registration Number:** 252U1R5065
 - **Section:** CSE (AI & DE)
 - **Course:** Backend Development Fundamentals
 - **Lab:** Lab 3 – REST API, Query Parameters, Validation and Debugging
@@ -11,7 +11,7 @@
 
 ## Deployment URL
 
-**Render URL:** https://chaithu-lab-3.onrender.com/books
+**Render URL:** https://deepika-lab-3.onrender.com/books
 
 ## Project Description
 
@@ -51,18 +51,17 @@ lab-03/
     ├── not-found-error.png
     ├── post-success.png
     ├── post-validation-error.png
-    ├── price-filter.png
+    ├── price-filtering.png
+    ├── put-update.png
     ├── sorting-ascending.png
-    ├── sorting-descending.png
-    └── update.png
-```
+    └── sorting-descending.png
 
 ## Installation and Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/chaithu-m10-eng/chaithu-BDF-LABS.git](https://github.com/chaithu-m10-eng/chaithu-BDF-LABS.git)
+git clone [https://github.com/deepikakj2008/Deepika-BDF.git](https://github.com/deepikakj2008/Deepika-BDF.git)
 ```
 
 ### 2. Open the project folder
